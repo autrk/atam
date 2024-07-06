@@ -1,2 +1,9 @@
-coverage.txt
+# local VS Code setting
+.vscode
+
+# .env files
+.env*
+!.envrc
+
+# goreleaser
 dist/
